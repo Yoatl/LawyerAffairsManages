@@ -1,0 +1,200 @@
+﻿body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+TABLE 
+{
+	BORDER-COLLAPSE: collapse
+}
+.table-form {
+	/*BORDER-TOP: #3776b9 2px solid;*/ 
+	MARGIN-BOTTOM: 1px;  
+	WIDTH: 100%
+}
+.table-form TD {
+	    border: 1px solid #b5cff5;
+            padding: 3px;
+	}
+.table-title
+{
+	background-color: #C3D5FD;
+	text-align: center;
+	FONT-SIZE: 9pt;
+	font:宋体;
+	height:24px;
+	
+}
+.caption
+{
+	BACKGROUND-COLOR: #e8f4ff; 
+	FONT-SIZE: 9pt;
+	font:宋体;
+	height:24px;
+	TEXT-ALIGN:LEFT;
+}
+.bottom
+{
+	BACKGROUND-COLOR: #e8f4ff; 
+	FONT-SIZE: 9pt;
+	font:宋体;
+	height:24px;
+	TEXT-ALIGN:RIGHT;
+}
+.bottom1
+{
+	BACKGROUND-COLOR: #e8f4ff; 
+	FONT-SIZE: 9pt;
+	font:宋体;
+	height:24px;
+	TEXT-ALIGN:left;
+}
+.base-bottom
+{
+	BACKGROUND-COLOR: #e8f4ff; 
+	FONT-SIZE: 9pt;
+	font:宋体;
+	height:29px;
+	TEXT-ALIGN:CENTER;
+}
+
+.table-td-name
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:15%;
+    TEXT-ALIGN:RIGHT;
+}
+.table-td-content
+{
+    FONT-SIZE: 9pt;
+    width:30%;
+    TEXT-ALIGN:LEFT;    
+}
+.table-td-name1
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:15%;
+    TEXT-ALIGN:RIGHT;
+}
+.table-td-content1
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:85%;
+    TEXT-ALIGN:LEFT;    
+}
+.table-td-name2
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:25%;
+    TEXT-ALIGN:RIGHT;
+}
+.table-td-content2
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:75%;
+    TEXT-ALIGN:LEFT;    
+}
+.table-td-name3
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:16%;
+    TEXT-ALIGN:RIGHT;
+}
+.table-td-content3
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:84%;
+    TEXT-ALIGN:LEFT;   
+    line-height:23px; 
+}
+.table-td-name4
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:10%;
+    TEXT-ALIGN:RIGHT;
+}
+.table-td-content4
+{
+    FONT-SIZE: 9pt;
+    font:宋体;
+    width:20%;
+    TEXT-ALIGN:LEFT;   
+    line-height:23px; 
+}
+.textBox
+{	
+    font:宋体;
+	FONT-SIZE: 9pt; 
+	COLOR: #000000;
+	width:160px;
+}
+.multiTextBox
+{
+    font:宋体;
+	width:90%;
+	height:160px;
+}
+.listBox
+{
+    font:宋体;
+	height:20px;
+	FONT-SIZE: 9pt; 
+	COLOR: #000000;
+	width:166px;
+}
+.radioButton
+{
+    font:宋体;
+	FONT-SIZE: 9pt; 
+	COLOR: #000000;
+	TEXT-ALIGN:LEFT;
+}
+
+/*标题页*/
+/*背景色*/
+.main_top_background
+{
+    background-image:url(../Images/main/main_top_background.jpg);
+    background-repeat:repeat-x;
+    height:100px;
+    width:100%;
+    float:left;
+    border-bottom:4px solid #97C35A;
+}
+/*logo*/
+.main_top_logo
+{
+    background-image:url(../Images/main/main_top_logo.jpg);
+    background-repeat:no-repeat;
+    width:150px;
+    height:100px;
+    float:left;
+    margin-left:0px;
+    margin-top:0px;
+}
+/*名称*/
+.main_top_span
+{
+    margin-left:32px;
+    margin-top:32px;
+    font-size: 36px;
+    color: #25A0DA;
+    font-weight: bold;
+    float: left;
+    font-family: 微软雅黑;
+}
+
+/*导航页*/
+.main_nav_background
+{
+    background-color:#CFE9AB;
+}
